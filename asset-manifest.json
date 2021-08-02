@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mathToDo/static/css/main.dfcf321a.chunk.css",
+    "main.js": "/mathToDo/static/js/main.943bb9a2.chunk.js",
+    "main.js.map": "/mathToDo/static/js/main.943bb9a2.chunk.js.map",
+    "runtime-main.js": "/mathToDo/static/js/runtime-main.29381a3e.js",
+    "runtime-main.js.map": "/mathToDo/static/js/runtime-main.29381a3e.js.map",
+    "static/css/2.4be38407.chunk.css": "/mathToDo/static/css/2.4be38407.chunk.css",
+    "static/js/2.e6683edf.chunk.js": "/mathToDo/static/js/2.e6683edf.chunk.js",
+    "static/js/2.e6683edf.chunk.js.map": "/mathToDo/static/js/2.e6683edf.chunk.js.map",
+    "index.html": "/mathToDo/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/mathToDo/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.dfcf321a.chunk.css.map": "/mathToDo/static/css/main.dfcf321a.chunk.css.map",
+    "static/js/2.e6683edf.chunk.js.LICENSE.txt": "/mathToDo/static/js/2.e6683edf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29381a3e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.e6683edf.chunk.js",
+    "static/css/main.dfcf321a.chunk.css",
+    "static/js/main.943bb9a2.chunk.js"
+  ]
+}
